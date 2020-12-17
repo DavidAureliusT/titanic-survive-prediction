@@ -4,7 +4,11 @@ Logistic Regression Model for predict survive probability of Titanic passenger w
 Project structure:
 
 titanic-survive-prediction (root)
+
 |-Titanic_Survive_Prediction_App
+
 | |- Titanic App.ipynb
+
 | |- X_train.csv
+
 | |- y_train.csv
