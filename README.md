@@ -12,3 +12,9 @@ titanic-survive-prediction (root)
 | |- X_train.csv
 
 | |- y_train.csv
+
+# How to Use:
+1. Download project
+2. Open Jupyter Notebook
+3. Open Titanic App.ipynb
+4. Run all cell
