@@ -18,3 +18,5 @@ titanic-survive-prediction (root)
 2. Open Jupyter Notebook
 3. Open Titanic App.ipynb
 4. Run all cell
+5. Fill the field base on your condition
+6. Click 'submit' to see survive probability 
